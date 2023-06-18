@@ -13,11 +13,10 @@ const Projects = () => {
             key={index}
           >
             <div className="text-center">
-              <a className="text-4xl" href={x.URL} target="_blank">
+              <a className="text-4xl" href={x.URL}>
                 {x.name}
               </a>
               <p>{x.stack}</p>
-              <p>{x.description}</p>
             </div>
           </div>
         );
