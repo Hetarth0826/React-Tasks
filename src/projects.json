@@ -3,35 +3,35 @@
     {
       "name": "Task1",
       "URL": "https://lively-speculoos-d10a5e.netlify.app/",
-      "src": "",
+      "src": "https://github.com/Hetarth0826/React-Tasks/tree/task1",
       "desc": "Responsive Paragraph Word Counter",
       "stack": "React.js"
     },
     {
       "name": "Task2",
       "URL": "https://chipper-fairy-446678.netlify.app/",
-      "src": "",
+      "src": "https://github.com/Hetarth0826/React-Tasks/tree/task2",
       "desc": "Calculator",
       "stack": "React.js"
     },
     {
       "name": "Task3",
       "URL": "https://heroic-paprenjak-f459df.netlify.app/",
-      "src": "",
+      "src": "https://github.com/Hetarth0826/React-Tasks/tree/task3",
       "desc": "Color Picker",
       "stack": "React.js"
     },
     {
       "name": "Task4",
       "URL": "https://inquisitive-longma-959ef7.netlify.app/",
-      "src": "",
+      "src": "https://github.com/Hetarth0826/React-Tasks/tree/task4",
       "desc": "Employee data API",
       "stack": "React.js"
     },
     {
       "name": "Task5",
       "URL": "https://fluffy-snickerdoodle-fb8600.netlify.app/",
-      "src": "",
+      "src": "https://github.com/Hetarth0826/React-Tasks/tree/task5",
       "desc": "Age Calculator",
       "stack": "React.js"
     }
