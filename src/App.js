@@ -1,20 +1,18 @@
-import About from "./components/About";
-import Navbar from "./components/Navbar";
-import Projects from "./components/Projects";
+import React from "react";
+import Navbar from "./components/Navbar/Navbar";
+import Home from "./components/Home/Home.jsx";
+import About from "./components/About/About";
+import Projects from "./components/Projects/Projects";
 
-function App() {
+const App = () => {
   return (
     <div>
       <Navbar />
-      <div id="home" className="pt-32 ml-80 h-screen max-[600px]:ml-0">
-        <h1 className="text-2xl">HELLO THERE</h1>
-        <h1 className="text-6xl">I&apos;m Hetarth Raval</h1>
-        <h1 className="text-4xl">Web Developer</h1>
-      </div>
+      <Home />
       <About />
       <Projects />
     </div>
   );
-}
+};
 
 export default App;
